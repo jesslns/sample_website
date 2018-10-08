@@ -1,0 +1,4 @@
+~/sample_website/.gitignore
+ .DS_store
+ *~
+ tmp/
