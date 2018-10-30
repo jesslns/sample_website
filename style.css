@@ -1,0 +1,22 @@
+body{
+	background-image: src="images/WhiteHouse.jpg" ;
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    font-family: arial
+}
+
+h1{
+	font-size: 30px;
+}
+
+h2{
+	font-size: 14px;
+}
+
+p{
+	font-size: 10px;
+}
+
+#portrait-image{width: 300px;}
+#landscape-image{height: 300px;}
